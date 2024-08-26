@@ -1,0 +1,82 @@
+
+  .heroBWA {
+    padding-top: 50px;
+    padding-bottom: 200px;
+  }
+  
+  
+  .heroBWA h1 {
+    font-family: "Poppins";
+    font-weight: 700;
+    color: #2f281e;
+  }
+  
+  .heroBWA p {
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #2f281e;
+  }
+  
+  .test {
+    padding-top: 65px;
+  }
+  
+  .test h2 {
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #2f281e;
+  }
+  
+  .test p {
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #2f281e;
+  }
+  
+  .navbar {
+    margin-top: 15px;
+  }
+  
+  .card {
+    width: max-content;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    border: 1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+  }
+  
+  .card-title h1 {
+    font-family: "Poppins";
+    font-weight: 700;
+    color: #2f281e;
+  }
+  
+  .col label {
+    font-family: "Poppins";
+    font-weight: 400;
+    color: #2f281e;
+  }
+   
+  .papan {
+    margin-top: 30px;
+  }
+  
+  .card-title{
+    font-weight: bolder;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .btn-primary,
+    .btn-secondary, 
+    .card {
+      margin-top: 10px;
+      margin-left: 0 !important;
+    }
+  }
+  
+
+
+  
